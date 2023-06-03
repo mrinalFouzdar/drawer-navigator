@@ -5,7 +5,7 @@ const WelcomeScreen = () => {
   return (
     <View style={styles.rootContainer}>
       <Text>
-        This is the <Text style={styles.higlight}>"Welcome"</Text> screen!
+        This is the <Text style={styles.highlight}>"Welcome"</Text> screen!
       </Text>
     </View>
   )
